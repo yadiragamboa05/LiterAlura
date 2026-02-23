@@ -1,7 +1,7 @@
 # 📚 Literalura - Sistema de Gestión de Libros y Autores
 
 <p align="left">
-   <img src="https://img.shields.io/badge/Status-En%20Desarrollo-yellow">
+   <img src="https://img.shields.io/badge/Status-Terminado-green">
    <img src="https://img.shields.io/badge/Java-17%2B-orange">
    <img src="https://img.shields.io/badge/Spring%20Boot-4.0.3-green">
    <img src="https://img.shields.io/badge/Database-PostgreSQL-blue">
