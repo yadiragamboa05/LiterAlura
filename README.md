@@ -1,5 +1,13 @@
 # 📚 Literalura - Sistema de Gestión de Libros y Autores
 
+<p align="left">
+   <img src="https://img.shields.io/badge/Status-En%20Desarrollo-yellow">
+   <img src="https://img.shields.io/badge/Java-17%2B-orange">
+   <img src="https://img.shields.io/badge/Spring%20Boot-4.0.3-green">
+   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue">
+   <img src="https://img.shields.io/badge/Library-Jackson-lightgrey">
+</p>
+
 Una aplicación de consola interactiva construida con **Spring Boot 4.0.3** que permite gestionar una biblioteca digital con información de libros y autores. El proyecto consume datos de APIs externas para enriquecer la información literaria.
 
 ## 🎯 Descripción del Proyecto
